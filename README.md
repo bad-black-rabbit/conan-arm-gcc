@@ -1,1 +1,1 @@
-# conan-arm-gcc
+Conan recipe for arm-gcc
